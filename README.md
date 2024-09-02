@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer Proficient in JavaScript, Frontend development ,React, Next.js, Node.js, Express.js, MySQL, MongoDB, AWS, Git, GitHub, HTML 5, Tailwind CSS, CSS
+Software Developer Proficient in JavaScript, Frontend development, Backend development, React, Next.js, Node.js, Express.js, MySQL, MongoDB, AWS, Git, GitHub, HTML 5, Tailwind CSS, CSS
 
 
 ## 🌐 Socials:
